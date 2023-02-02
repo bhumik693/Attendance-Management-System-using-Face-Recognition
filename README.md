@@ -1,6 +1,6 @@
 # Attendance-Management-System-using-Face-Recognition
 
-## Project Summary (max 100 words):
+## Project Summary:
 This Attendance management system is a complete GUI
 based application which can act as a virtual assistant for taking attendance
 (Using Python package - Tkinter).
